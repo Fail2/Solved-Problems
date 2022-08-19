@@ -1,3 +1,5 @@
+//https://www.codechef.com/problems/LUCKFOUR
+
 #include<stdio.h>
 int main ()
 {
