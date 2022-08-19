@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/MANYSUMS
+
 #include<stdio.h>
 int main()
 {

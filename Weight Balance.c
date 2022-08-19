@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/WEIGHTBL
+
 #include<stdio.h>
 int main()
 {

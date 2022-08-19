@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/NFS
+
 #include<stdio.h>
 #include<math.h>
 int main()

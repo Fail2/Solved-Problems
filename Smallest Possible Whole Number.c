@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/SMOL
+
 #include<stdio.h>
 int main()
 {

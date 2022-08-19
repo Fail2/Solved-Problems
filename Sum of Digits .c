@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/FLOW006
+
 #include<stdio.h>
 int main()
 {

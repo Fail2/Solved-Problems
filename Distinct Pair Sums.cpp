@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/MANYSUMS
+
 #include<bits/stdc++.h>
 using namespace std;
 const int N=1e6+18;

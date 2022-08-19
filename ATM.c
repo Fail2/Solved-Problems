@@ -1,3 +1,5 @@
+https://www.codechef.com/submit/HS08TEST
+
 #include<stdio.h>
 int main()
 {

@@ -1,3 +1,5 @@
+//https://www.codechef.com/submit/CSTOCK
+
 #include<stdio.h>
 int main()
 {
